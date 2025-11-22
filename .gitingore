@@ -1,0 +1,6 @@
+Thumbs.db/
+temp/
+*.tmp/
+*.bak/
+*.log/
+node_modules/
